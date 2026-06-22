@@ -8,3 +8,14 @@ print(info.title())
 print(info[4:30])
 for i in info:
     print(i)
+
+
+
+
+#     another pratice
+# info = "Python is a Brilliant Programming language"
+
+# for i in info:
+#     word = "language"
+#     if word == info:
+#         print("Find language")
